@@ -10,7 +10,7 @@
         "roots/wordpress-core-installer": "^1.0"
     },
     "provide": {
-        "wordpress/core-implementation": "nightly"
+        "wordpress/core-implementation": "dev-nightly"
     },
     "suggest": {
         "ext-curl": "Performs remote request operations.",
