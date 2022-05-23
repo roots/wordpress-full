@@ -38,9 +38,13 @@ However, the amount of effort needed to maintain and develop new features and pr
 
 </div>
 
-## About `roots/wordpress`
+## About
 
 `roots/wordpress-full` is an automatically updated Composer package for WordPress core.
+
+Name|WP.org Dist|Bundled Themes|Bundled Plugins|Beta & RC Releases
+--|:--:|--|--|:--:
+`full`|✅|[3 latest official](https://wordpress.org/themes/author/wordpressdotorg/)|[Akismet](https://wordpress.org/plugins/akismet/), [Hello Dolly](https://wordpress.org/plugins/hello-dolly/)|✔️
 
 ## Community
 
