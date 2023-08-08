@@ -1,5 +1,10 @@
 {
     "name": "roots/wordpress-full",
+    "source": {
+        "type": "git",
+        "url": "https://github.com/WordPress/WordPress.git",
+        "reference": "master"
+    },
     "dist": {
         "type": "zip",
         "url": "https://wordpress.org/nightly-builds/wordpress-latest.zip"
