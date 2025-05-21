@@ -10,7 +10,7 @@
         "url": "https://wordpress.org/nightly-builds/wordpress-latest.zip"
     },
     "require": {
-        "php": ">= 7.0.0"
+        "php": ">= 7.2.24"
     },
     "provide": {
         "wordpress/core-implementation": "dev-nightly"
