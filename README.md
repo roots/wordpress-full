@@ -45,6 +45,10 @@ A [WordPress Core Installer](https://packagist.org/?query=wordpress%20core%20ins
 composer require roots/wordpress-full
 ```
 
+> [!tip]
+> Looking for WordPress plugins and themes as Composer packages?
+> [WP Composer](https://wp-composer.com/) provides all WordPress.org plugins and themes as a Composer repository.
+
 ## Community
 
 Keep track of development and community news.
