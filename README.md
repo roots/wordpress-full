@@ -11,11 +11,7 @@
   <a href="https://github.com/sponsors/roots"><img src="https://img.shields.io/badge/sponsor%20roots-525ddc?logo=github&style=flat-square&logoColor=ffffff&message=" alt="Sponsor Roots"></a>
 </p>
 
-<p align="center">Composer package for installing WordPress</p>
-
-<p align="center">
-  <a href="https://roots.io/composer-wordpress-resources/">Website</a> &nbsp;&nbsp; <a href="https://packagist.org/packages/roots/wordpress-full">Packages</a> &nbsp;&nbsp; <a href="https://github.com/roots/wordpress-full/releases">Releases</a> &nbsp;&nbsp; <a href="https://discourse.roots.io/">Community</a>
-</p>
+<p align="center">Composer package for <a href="https://wp-packages.org/roots-wordpress">installing WordPress via Composer</p>
 
 ## Overview
 
@@ -33,11 +29,7 @@ Roots is an independent open source org, supported only by developers like you. 
 
 ## Requirements
 
-A [WordPress Core Installer](https://packagist.org/?query=wordpress%20core%20installer&type=composer-plugin) package is required to handle installation path.
-
-> [!tip]
-> Roots project provides a core installer, `roots/wordpress-core-installer`.  
-> See the [usage docs](https://github.com/roots/wordpress-core-installer#readme).
+The [`roots/wordpress-core-installer`](https://github.com/roots/wordpress-core-installer) package is required to handle the installation path.
 
 ## Getting Started
 
